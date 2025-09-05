@@ -1,0 +1,12 @@
+Cual es el punto mas debil de PGP?
+El factor humano, ya que la cantidad de comandos a utilizar puede resultar abrumadora.
+
+Cuando es conveniente utilizar solamente cifrado simetrico?
+Cuando ambas partes ya comparten la clave de forma segura, y si se busca velocidad y eficiencia.
+
+En que consiste el ciclo de vida del desarrollo de software seguro?
+-PLANNING: Se toman en cuenta consideraciones de seguridad, asi como se evaluan posibles vulnerabilidades.
+-DESIGN: Se identifican las posibles amenazas
+-DEVELOPMENT: Se revisa el codigo en busca de vulnerabilidades para garantizar su seguridad.,
+-TESTING: Se realizan pruebas para garantizar la seguridad y estabilidad del codigo. 
+-RELEASE: poner el software a disposición de los usuarios. 
